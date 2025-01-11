@@ -13,7 +13,7 @@ Déjà un pro ? Modifiez simplement ce README.md et personnalisez-le à votre gu
 - [ ] [Ajouter des fichiers en utilisant la ligne de commande](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) ou pousser un dépôt Git existant avec la commande suivante :
 
 cd existing_repo
-git remote add origin https://github.com/boris913/gestion_de_stock.git
+git remote add origin https://github.com/boris913/gestion-stock-template
 git branch -M main
 git push -uf origin main
 
@@ -23,7 +23,7 @@ Copier
 
 ## Intégrez avec vos outils
 
-- [ ] [Configurer les intégrations de projet](https://github.com/boris913/gestion_de_stock.git/-/settings/integrations)
+- [ ] [Configurer les intégrations de projet](https://github.com/boris913/gestion-stock-template/-/settings/integrations)
 
 ## Collaborez avec votre équipe
 
